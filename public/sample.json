@@ -1,0 +1,9 @@
+[
+{"id":"gengar","name":"Gengar","kind":"pokemon","price":300,"types":"Geist Gift"},
+{"id":"charizard","name":"Glurak","showdown":"Charizard","kind":"pokemon","price":300,"types":"Feuer Flug"},
+{"id":"garchomp","name":"Knakrack","showdown":"Garchomp","kind":"pokemon","price":400,"types":"Drache Boden"},
+{"id":"lucario","name":"Lucario","kind":"pokemon","price":300,"types":"Kampf Stahl"},
+{"id":"gengar-mega","name":"Mega-Gengar","kind":"mega","base":"gengar","stone":"Gengarite","price":800},
+{"id":"leftovers","name":"Leftovers","kind":"item","price":150},
+{"id":"focus-sash","name":"Focus Sash","kind":"item","price":150}
+]
