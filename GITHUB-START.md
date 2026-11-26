@@ -1,19 +1,17 @@
-# Pokémon Burg v0.2 — GitHub-Test
+# Pokémon Burg v0.9 – Beta-Kandidat
 
-1. ZIP entpacken. Den Inhalt des Ordners `pokemon-burg` in ein neues öffentliches Repository `pokemon-burg` auf GitHub hochladen (auch `.github` für Actions, falls gewünscht).
-2. Einfachste Variante ohne Actions: den enthaltenen Ordner `docs` mit hochladen. Settings → Pages → Source: Deploy from a branch → main → /docs → Save.
-3. Die URL steht anschließend unter Settings → Pages (typisch https://DEINNAME.github.io/pokemon-burg/).
-4. App startet mit Testprofilen, zwei Starterbundles, 1000 Testpunkten und einem Beispiel-Champion. Rolle wechseln → Starterbundle wählen → Shop/Team testen → Admin → Kampf bestätigen und Ergebnis eintragen.
-5. Alternative für Git-Nutzer: Source GitHub Actions auswählen; der enthaltene Workflow veröffentlicht `public`.
+## Bestehendes Repository aktualisieren
+1. Sichere die bisherige Version (GitHub: Code → Download ZIP). Optional im Adminbereich der neuen Version eine JSON-Sicherung herunterladen.
+2. Entpacke das neue ZIP und öffne `pokemon-burg-v09`. Lade den **Inhalt** in dein bestehendes Repository `dragonkeks/Pokemon-Burg` hoch. Insbesondere müssen alle Dateien in `docs/` die alten ersetzen. Nicht den gesamten übergeordneten Ordner in einen Unterordner hochladen.
+3. Settings → Pages: Deploy from a branch, `main`, `/docs`. Die Einstellungen aus v0.2 können bleiben. Alternativ GitHub Actions verwenden, dann wird `public/` veröffentlicht.
+4. Nach erfolgreichem Deployment: https://dragonkeks.github.io/Pokemon-Burg/ öffnen und Cmd+Shift+R drücken. Im Kopf steht v0.9 BETA.
+5. Der Demo-Modus nutzt denselben localStorage-Schlüssel wie v0.2; vorhandene Runs, Preise und Teams bleiben grundsätzlich erhalten. Vor Änderungen sichern. Bei einem frischen Browser startet die Demo mit Beispielwerten. Demo-Daten sind nicht mit Firebase synchronisiert.
 
-Keine Firebase-Konfiguration nötig. Daten sind lokal im Browser, nicht zwischen Spielern synchronisiert. Keine echten Admin-Zugangsdaten im Demo-Modus. Für einen neuen Test Browser-Sitedaten löschen. Die ältere v0.1 wird nicht migriert.
+## Neue Funktionen testen
+- Team: Pokémon hinzufügen, Wesen und Fähigkeit, vier Attacken und sechs SP-Werte einstellen. Maximal 32 pro Wert und 66 insgesamt. Bei Bedarf Pokédex-Hinweise laden (Internet erforderlich; allgemeine PokéAPI-Daten, nicht Champions-verifiziert).
+- Karte: neue Runs besitzen eine variable Wegführung und Vegetation; Küstenkontur und Bergregionen sind fest.
+- Admin: Kategoriepreise gesammelt ändern, Starterbundles über Auswahlfelder erstellen/entfernen, letzte Adminaktionen ansehen, JSON-Sicherung exportieren, letztes Kampfergebnis zurücknehmen (vor Folgekäufen bzw. neuem Team, kein Championsieg).
+- Firebase: siehe README. Für echte Accounts ist Konfiguration und Deployment nötig. Es gibt noch keinen Live-Multiplayertest.
 
-## Datenstand
-M-C (9. September 2026 bis 2. Dezember 2026 UTC): manuell übertragene Pokémon-/Formenliste aus Bulbapedia, Mega-Zuordnungen und Kampfitems aus Serebii. 263 normale Pokémon/Formen, 81 Mega-Freischaltungen und 85 sonstige Kampfitems inkl. Beeren. Mega-Steine sind Teil der Mega-Freischaltung. Nicht mit dem vollständigen offiziellen Datensatz abgeglichen; abweichende Formen und fehlende Einträge sind möglich. Englische Namen, Typdaten nur für einige Beispiel-Pokémon. Keine vollständigen Learnsets oder SP-Legalitätsprüfung. Preise sind Testwerte. Champions-Sprite-Archiv wie v0.1, externe Bild-URLs nicht geprüft; keine garantierte offizielle Herkunft. 
-
-Quellen:
-- https://champions-news.pokemon-home.com/de/page/816.html
-- https://bulbapedia.bulbagarden.net/wiki/Regulation_Set_M-C
-- https://www.serebii.net/pokemonchampions/items.shtml
-
-Firebase ist weiterhin als experimentelle Option enthalten (siehe README); nicht produktiv getestet. `public` und `docs` sind identische statische Kopien, nach Änderungen an public muss docs aktualisiert werden.
+## Beta-Freigabe
+Dies ist ein Entwicklungsstand, keine abgeschlossene Closed Beta. `node test.mjs` prüft die Spiellogik. Der Browser-End-to-End-Test war in der Entwicklungsumgebung durch eine Netzwerksperre nicht ausführbar. Externe Daten und Sprites wurden nicht live verifiziert. Der Katalog bleibt der manuell erstellte M-C-Katalog aus v0.2 (263 Pokémon/Formen, 81 Mega, 85 Items). Vollständiger Champions-Abgleich, deutsche Katalognamen, Pokémon-spezifische Legalität und Showdown-Importtest fehlen. Eine JSON-Sicherung ist ein Export, keine Wiederherstellung über die App.
