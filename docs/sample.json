@@ -1,0 +1,3268 @@
+[
+  {
+    "id": "venusaur",
+    "name": "Venusaur",
+    "showdown": "Venusaur",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "venusaur"
+  },
+  {
+    "id": "charizard",
+    "name": "Charizard",
+    "showdown": "Charizard",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "charizard",
+    "types": "Feuer Flug"
+  },
+  {
+    "id": "blastoise",
+    "name": "Blastoise",
+    "showdown": "Blastoise",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "blastoise"
+  },
+  {
+    "id": "beedrill",
+    "name": "Beedrill",
+    "showdown": "Beedrill",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "beedrill"
+  },
+  {
+    "id": "pidgeot",
+    "name": "Pidgeot",
+    "showdown": "Pidgeot",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pidgeot"
+  },
+  {
+    "id": "arbok",
+    "name": "Arbok",
+    "showdown": "Arbok",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "arbok"
+  },
+  {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "showdown": "Pikachu",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pikachu"
+  },
+  {
+    "id": "raichu",
+    "name": "Raichu",
+    "showdown": "Raichu",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "raichu"
+  },
+  {
+    "id": "raichu-alola",
+    "name": "Raichu-Alola",
+    "showdown": "Raichu-Alola",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "raichu"
+  },
+  {
+    "id": "clefable",
+    "name": "Clefable",
+    "showdown": "Clefable",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "clefable"
+  },
+  {
+    "id": "wigglytuff",
+    "name": "Wigglytuff",
+    "showdown": "Wigglytuff",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "wigglytuff"
+  },
+  {
+    "id": "ninetales",
+    "name": "Ninetales",
+    "showdown": "Ninetales",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "ninetales"
+  },
+  {
+    "id": "ninetales-alola",
+    "name": "Ninetales-Alola",
+    "showdown": "Ninetales-Alola",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "ninetales"
+  },
+  {
+    "id": "vileplume",
+    "name": "Vileplume",
+    "showdown": "Vileplume",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "vileplume"
+  },
+  {
+    "id": "persian",
+    "name": "Persian",
+    "showdown": "Persian",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "persian"
+  },
+  {
+    "id": "persian-alola",
+    "name": "Persian-Alola",
+    "showdown": "Persian-Alola",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "persian"
+  },
+  {
+    "id": "arcanine",
+    "name": "Arcanine",
+    "showdown": "Arcanine",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "arcanine"
+  },
+  {
+    "id": "arcanine-hisui",
+    "name": "Arcanine-Hisui",
+    "showdown": "Arcanine-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "arcanine"
+  },
+  {
+    "id": "alakazam",
+    "name": "Alakazam",
+    "showdown": "Alakazam",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "alakazam"
+  },
+  {
+    "id": "machamp",
+    "name": "Machamp",
+    "showdown": "Machamp",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "machamp"
+  },
+  {
+    "id": "victreebel",
+    "name": "Victreebel",
+    "showdown": "Victreebel",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "victreebel"
+  },
+  {
+    "id": "slowbro",
+    "name": "Slowbro",
+    "showdown": "Slowbro",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "slowbro"
+  },
+  {
+    "id": "slowbro-galar",
+    "name": "Slowbro-Galar",
+    "showdown": "Slowbro-Galar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "slowbro"
+  },
+  {
+    "id": "farfetchd",
+    "name": "Farfetch'd",
+    "showdown": "Farfetch'd",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "farfetchd"
+  },
+  {
+    "id": "gengar",
+    "name": "Gengar",
+    "showdown": "Gengar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gengar",
+    "types": "Geist Gift"
+  },
+  {
+    "id": "kangaskhan",
+    "name": "Kangaskhan",
+    "showdown": "Kangaskhan",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "kangaskhan"
+  },
+  {
+    "id": "starmie",
+    "name": "Starmie",
+    "showdown": "Starmie",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "starmie"
+  },
+  {
+    "id": "mr-mime",
+    "name": "Mr. Mime",
+    "showdown": "Mr. Mime",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mr-mime"
+  },
+  {
+    "id": "pinsir",
+    "name": "Pinsir",
+    "showdown": "Pinsir",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pinsir"
+  },
+  {
+    "id": "tauros",
+    "name": "Tauros",
+    "showdown": "Tauros",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tauros"
+  },
+  {
+    "id": "tauros-paldea-combat",
+    "name": "Tauros-Paldea-Combat",
+    "showdown": "Tauros-Paldea-Combat",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tauros"
+  },
+  {
+    "id": "tauros-paldea-blaze",
+    "name": "Tauros-Paldea-Blaze",
+    "showdown": "Tauros-Paldea-Blaze",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tauros"
+  },
+  {
+    "id": "tauros-paldea-aqua",
+    "name": "Tauros-Paldea-Aqua",
+    "showdown": "Tauros-Paldea-Aqua",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tauros"
+  },
+  {
+    "id": "gyarados",
+    "name": "Gyarados",
+    "showdown": "Gyarados",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gyarados"
+  },
+  {
+    "id": "ditto",
+    "name": "Ditto",
+    "showdown": "Ditto",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "ditto"
+  },
+  {
+    "id": "vaporeon",
+    "name": "Vaporeon",
+    "showdown": "Vaporeon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "vaporeon"
+  },
+  {
+    "id": "jolteon",
+    "name": "Jolteon",
+    "showdown": "Jolteon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "jolteon"
+  },
+  {
+    "id": "flareon",
+    "name": "Flareon",
+    "showdown": "Flareon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "flareon"
+  },
+  {
+    "id": "aerodactyl",
+    "name": "Aerodactyl",
+    "showdown": "Aerodactyl",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "aerodactyl"
+  },
+  {
+    "id": "snorlax",
+    "name": "Snorlax",
+    "showdown": "Snorlax",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "snorlax"
+  },
+  {
+    "id": "dragonite",
+    "name": "Dragonite",
+    "showdown": "Dragonite",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "dragonite"
+  },
+  {
+    "id": "meganium",
+    "name": "Meganium",
+    "showdown": "Meganium",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "meganium"
+  },
+  {
+    "id": "typhlosion",
+    "name": "Typhlosion",
+    "showdown": "Typhlosion",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "typhlosion"
+  },
+  {
+    "id": "typhlosion-hisui",
+    "name": "Typhlosion-Hisui",
+    "showdown": "Typhlosion-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "typhlosion"
+  },
+  {
+    "id": "feraligatr",
+    "name": "Feraligatr",
+    "showdown": "Feraligatr",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "feraligatr"
+  },
+  {
+    "id": "ariados",
+    "name": "Ariados",
+    "showdown": "Ariados",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "ariados"
+  },
+  {
+    "id": "ampharos",
+    "name": "Ampharos",
+    "showdown": "Ampharos",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "ampharos"
+  },
+  {
+    "id": "azumarill",
+    "name": "Azumarill",
+    "showdown": "Azumarill",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "azumarill"
+  },
+  {
+    "id": "politoed",
+    "name": "Politoed",
+    "showdown": "Politoed",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "politoed"
+  },
+  {
+    "id": "espeon",
+    "name": "Espeon",
+    "showdown": "Espeon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "espeon"
+  },
+  {
+    "id": "umbreon",
+    "name": "Umbreon",
+    "showdown": "Umbreon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "umbreon"
+  },
+  {
+    "id": "slowking",
+    "name": "Slowking",
+    "showdown": "Slowking",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "slowking"
+  },
+  {
+    "id": "slowking-galar",
+    "name": "Slowking-Galar",
+    "showdown": "Slowking-Galar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "slowking"
+  },
+  {
+    "id": "forretress",
+    "name": "Forretress",
+    "showdown": "Forretress",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "forretress"
+  },
+  {
+    "id": "steelix",
+    "name": "Steelix",
+    "showdown": "Steelix",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "steelix"
+  },
+  {
+    "id": "qwilfish",
+    "name": "Qwilfish",
+    "showdown": "Qwilfish",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "qwilfish"
+  },
+  {
+    "id": "scizor",
+    "name": "Scizor",
+    "showdown": "Scizor",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "scizor"
+  },
+  {
+    "id": "heracross",
+    "name": "Heracross",
+    "showdown": "Heracross",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "heracross"
+  },
+  {
+    "id": "skarmory",
+    "name": "Skarmory",
+    "showdown": "Skarmory",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "skarmory"
+  },
+  {
+    "id": "houndoom",
+    "name": "Houndoom",
+    "showdown": "Houndoom",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "houndoom"
+  },
+  {
+    "id": "tyranitar",
+    "name": "Tyranitar",
+    "showdown": "Tyranitar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tyranitar"
+  },
+  {
+    "id": "sceptile",
+    "name": "Sceptile",
+    "showdown": "Sceptile",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sceptile"
+  },
+  {
+    "id": "blaziken",
+    "name": "Blaziken",
+    "showdown": "Blaziken",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "blaziken"
+  },
+  {
+    "id": "swampert",
+    "name": "Swampert",
+    "showdown": "Swampert",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "swampert"
+  },
+  {
+    "id": "pelipper",
+    "name": "Pelipper",
+    "showdown": "Pelipper",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pelipper"
+  },
+  {
+    "id": "gardevoir",
+    "name": "Gardevoir",
+    "showdown": "Gardevoir",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gardevoir"
+  },
+  {
+    "id": "sableye",
+    "name": "Sableye",
+    "showdown": "Sableye",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sableye"
+  },
+  {
+    "id": "mawile",
+    "name": "Mawile",
+    "showdown": "Mawile",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mawile"
+  },
+  {
+    "id": "aggron",
+    "name": "Aggron",
+    "showdown": "Aggron",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "aggron"
+  },
+  {
+    "id": "medicham",
+    "name": "Medicham",
+    "showdown": "Medicham",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "medicham"
+  },
+  {
+    "id": "manectric",
+    "name": "Manectric",
+    "showdown": "Manectric",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "manectric"
+  },
+  {
+    "id": "swalot",
+    "name": "Swalot",
+    "showdown": "Swalot",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "swalot"
+  },
+  {
+    "id": "sharpedo",
+    "name": "Sharpedo",
+    "showdown": "Sharpedo",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sharpedo"
+  },
+  {
+    "id": "camerupt",
+    "name": "Camerupt",
+    "showdown": "Camerupt",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "camerupt"
+  },
+  {
+    "id": "torkoal",
+    "name": "Torkoal",
+    "showdown": "Torkoal",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "torkoal"
+  },
+  {
+    "id": "altaria",
+    "name": "Altaria",
+    "showdown": "Altaria",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "altaria"
+  },
+  {
+    "id": "milotic",
+    "name": "Milotic",
+    "showdown": "Milotic",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "milotic"
+  },
+  {
+    "id": "castform",
+    "name": "Castform",
+    "showdown": "Castform",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "castform"
+  },
+  {
+    "id": "banette",
+    "name": "Banette",
+    "showdown": "Banette",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "banette"
+  },
+  {
+    "id": "chimecho",
+    "name": "Chimecho",
+    "showdown": "Chimecho",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "chimecho"
+  },
+  {
+    "id": "absol",
+    "name": "Absol",
+    "showdown": "Absol",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "absol"
+  },
+  {
+    "id": "glalie",
+    "name": "Glalie",
+    "showdown": "Glalie",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "glalie"
+  },
+  {
+    "id": "salamence",
+    "name": "Salamence",
+    "showdown": "Salamence",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "salamence"
+  },
+  {
+    "id": "metagross",
+    "name": "Metagross",
+    "showdown": "Metagross",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "metagross"
+  },
+  {
+    "id": "torterra",
+    "name": "Torterra",
+    "showdown": "Torterra",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "torterra"
+  },
+  {
+    "id": "infernape",
+    "name": "Infernape",
+    "showdown": "Infernape",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "infernape"
+  },
+  {
+    "id": "empoleon",
+    "name": "Empoleon",
+    "showdown": "Empoleon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "empoleon"
+  },
+  {
+    "id": "staraptor",
+    "name": "Staraptor",
+    "showdown": "Staraptor",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "staraptor"
+  },
+  {
+    "id": "luxray",
+    "name": "Luxray",
+    "showdown": "Luxray",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "luxray"
+  },
+  {
+    "id": "roserade",
+    "name": "Roserade",
+    "showdown": "Roserade",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "roserade"
+  },
+  {
+    "id": "rampardos",
+    "name": "Rampardos",
+    "showdown": "Rampardos",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rampardos"
+  },
+  {
+    "id": "bastiodon",
+    "name": "Bastiodon",
+    "showdown": "Bastiodon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "bastiodon"
+  },
+  {
+    "id": "lopunny",
+    "name": "Lopunny",
+    "showdown": "Lopunny",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "lopunny"
+  },
+  {
+    "id": "spiritomb",
+    "name": "Spiritomb",
+    "showdown": "Spiritomb",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "spiritomb"
+  },
+  {
+    "id": "garchomp",
+    "name": "Garchomp",
+    "showdown": "Garchomp",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "garchomp",
+    "types": "Drache Boden"
+  },
+  {
+    "id": "lucario",
+    "name": "Lucario",
+    "showdown": "Lucario",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "lucario",
+    "types": "Kampf Stahl"
+  },
+  {
+    "id": "hippowdon",
+    "name": "Hippowdon",
+    "showdown": "Hippowdon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "hippowdon"
+  },
+  {
+    "id": "toxicroak",
+    "name": "Toxicroak",
+    "showdown": "Toxicroak",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "toxicroak"
+  },
+  {
+    "id": "abomasnow",
+    "name": "Abomasnow",
+    "showdown": "Abomasnow",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "abomasnow"
+  },
+  {
+    "id": "weavile",
+    "name": "Weavile",
+    "showdown": "Weavile",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "weavile"
+  },
+  {
+    "id": "rhyperior",
+    "name": "Rhyperior",
+    "showdown": "Rhyperior",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rhyperior"
+  },
+  {
+    "id": "leafeon",
+    "name": "Leafeon",
+    "showdown": "Leafeon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "leafeon"
+  },
+  {
+    "id": "glaceon",
+    "name": "Glaceon",
+    "showdown": "Glaceon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "glaceon"
+  },
+  {
+    "id": "gliscor",
+    "name": "Gliscor",
+    "showdown": "Gliscor",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gliscor"
+  },
+  {
+    "id": "mamoswine",
+    "name": "Mamoswine",
+    "showdown": "Mamoswine",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mamoswine"
+  },
+  {
+    "id": "gallade",
+    "name": "Gallade",
+    "showdown": "Gallade",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gallade"
+  },
+  {
+    "id": "froslass",
+    "name": "Froslass",
+    "showdown": "Froslass",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "froslass"
+  },
+  {
+    "id": "rotom",
+    "name": "Rotom",
+    "showdown": "Rotom",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rotom"
+  },
+  {
+    "id": "rotom-heat",
+    "name": "Rotom-Heat",
+    "showdown": "Rotom-Heat",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rotom"
+  },
+  {
+    "id": "rotom-wash",
+    "name": "Rotom-Wash",
+    "showdown": "Rotom-Wash",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rotom"
+  },
+  {
+    "id": "rotom-frost",
+    "name": "Rotom-Frost",
+    "showdown": "Rotom-Frost",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rotom"
+  },
+  {
+    "id": "rotom-fan",
+    "name": "Rotom-Fan",
+    "showdown": "Rotom-Fan",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rotom"
+  },
+  {
+    "id": "rotom-mow",
+    "name": "Rotom-Mow",
+    "showdown": "Rotom-Mow",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rotom"
+  },
+  {
+    "id": "serperior",
+    "name": "Serperior",
+    "showdown": "Serperior",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "serperior"
+  },
+  {
+    "id": "emboar",
+    "name": "Emboar",
+    "showdown": "Emboar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "emboar"
+  },
+  {
+    "id": "samurott",
+    "name": "Samurott",
+    "showdown": "Samurott",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "samurott"
+  },
+  {
+    "id": "samurott-hisui",
+    "name": "Samurott-Hisui",
+    "showdown": "Samurott-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "samurott"
+  },
+  {
+    "id": "watchog",
+    "name": "Watchog",
+    "showdown": "Watchog",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "watchog"
+  },
+  {
+    "id": "liepard",
+    "name": "Liepard",
+    "showdown": "Liepard",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "liepard"
+  },
+  {
+    "id": "simisage",
+    "name": "Simisage",
+    "showdown": "Simisage",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "simisage"
+  },
+  {
+    "id": "simisear",
+    "name": "Simisear",
+    "showdown": "Simisear",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "simisear"
+  },
+  {
+    "id": "simipour",
+    "name": "Simipour",
+    "showdown": "Simipour",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "simipour"
+  },
+  {
+    "id": "musharna",
+    "name": "Musharna",
+    "showdown": "Musharna",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "musharna"
+  },
+  {
+    "id": "excadrill",
+    "name": "Excadrill",
+    "showdown": "Excadrill",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "excadrill"
+  },
+  {
+    "id": "audino",
+    "name": "Audino",
+    "showdown": "Audino",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "audino"
+  },
+  {
+    "id": "conkeldurr",
+    "name": "Conkeldurr",
+    "showdown": "Conkeldurr",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "conkeldurr"
+  },
+  {
+    "id": "scolipede",
+    "name": "Scolipede",
+    "showdown": "Scolipede",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "scolipede"
+  },
+  {
+    "id": "whimsicott",
+    "name": "Whimsicott",
+    "showdown": "Whimsicott",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "whimsicott"
+  },
+  {
+    "id": "krookodile",
+    "name": "Krookodile",
+    "showdown": "Krookodile",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "krookodile"
+  },
+  {
+    "id": "scrafty",
+    "name": "Scrafty",
+    "showdown": "Scrafty",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "scrafty"
+  },
+  {
+    "id": "cofagrigus",
+    "name": "Cofagrigus",
+    "showdown": "Cofagrigus",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "cofagrigus"
+  },
+  {
+    "id": "garbodor",
+    "name": "Garbodor",
+    "showdown": "Garbodor",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "garbodor"
+  },
+  {
+    "id": "zoroark",
+    "name": "Zoroark",
+    "showdown": "Zoroark",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "zoroark"
+  },
+  {
+    "id": "zoroark-hisui",
+    "name": "Zoroark-Hisui",
+    "showdown": "Zoroark-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "zoroark"
+  },
+  {
+    "id": "reuniclus",
+    "name": "Reuniclus",
+    "showdown": "Reuniclus",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "reuniclus"
+  },
+  {
+    "id": "vanilluxe",
+    "name": "Vanilluxe",
+    "showdown": "Vanilluxe",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "vanilluxe"
+  },
+  {
+    "id": "emolga",
+    "name": "Emolga",
+    "showdown": "Emolga",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "emolga"
+  },
+  {
+    "id": "eelektross",
+    "name": "Eelektross",
+    "showdown": "Eelektross",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "eelektross"
+  },
+  {
+    "id": "chandelure",
+    "name": "Chandelure",
+    "showdown": "Chandelure",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "chandelure"
+  },
+  {
+    "id": "beartic",
+    "name": "Beartic",
+    "showdown": "Beartic",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "beartic"
+  },
+  {
+    "id": "stunfisk",
+    "name": "Stunfisk",
+    "showdown": "Stunfisk",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "stunfisk"
+  },
+  {
+    "id": "stunfisk-galar",
+    "name": "Stunfisk-Galar",
+    "showdown": "Stunfisk-Galar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "stunfisk"
+  },
+  {
+    "id": "golurk",
+    "name": "Golurk",
+    "showdown": "Golurk",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "golurk"
+  },
+  {
+    "id": "hydreigon",
+    "name": "Hydreigon",
+    "showdown": "Hydreigon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "hydreigon"
+  },
+  {
+    "id": "volcarona",
+    "name": "Volcarona",
+    "showdown": "Volcarona",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "volcarona"
+  },
+  {
+    "id": "chesnaught",
+    "name": "Chesnaught",
+    "showdown": "Chesnaught",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "chesnaught"
+  },
+  {
+    "id": "delphox",
+    "name": "Delphox",
+    "showdown": "Delphox",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "delphox"
+  },
+  {
+    "id": "greninja",
+    "name": "Greninja",
+    "showdown": "Greninja",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "greninja"
+  },
+  {
+    "id": "diggersby",
+    "name": "Diggersby",
+    "showdown": "Diggersby",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "diggersby"
+  },
+  {
+    "id": "talonflame",
+    "name": "Talonflame",
+    "showdown": "Talonflame",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "talonflame"
+  },
+  {
+    "id": "vivillon",
+    "name": "Vivillon",
+    "showdown": "Vivillon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "vivillon"
+  },
+  {
+    "id": "pyroar",
+    "name": "Pyroar",
+    "showdown": "Pyroar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pyroar"
+  },
+  {
+    "id": "floette-eternal",
+    "name": "Floette-Eternal",
+    "showdown": "Floette-Eternal",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "floette"
+  },
+  {
+    "id": "florges",
+    "name": "Florges",
+    "showdown": "Florges",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "florges"
+  },
+  {
+    "id": "gogoat",
+    "name": "Gogoat",
+    "showdown": "Gogoat",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gogoat"
+  },
+  {
+    "id": "pangoro",
+    "name": "Pangoro",
+    "showdown": "Pangoro",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pangoro"
+  },
+  {
+    "id": "furfrou",
+    "name": "Furfrou",
+    "showdown": "Furfrou",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "furfrou"
+  },
+  {
+    "id": "meowstic",
+    "name": "Meowstic",
+    "showdown": "Meowstic",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "meowstic"
+  },
+  {
+    "id": "meowstic-f",
+    "name": "Meowstic-F",
+    "showdown": "Meowstic-F",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "meowstic"
+  },
+  {
+    "id": "aegislash",
+    "name": "Aegislash",
+    "showdown": "Aegislash",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "aegislash"
+  },
+  {
+    "id": "aromatisse",
+    "name": "Aromatisse",
+    "showdown": "Aromatisse",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "aromatisse"
+  },
+  {
+    "id": "slurpuff",
+    "name": "Slurpuff",
+    "showdown": "Slurpuff",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "slurpuff"
+  },
+  {
+    "id": "malamar",
+    "name": "Malamar",
+    "showdown": "Malamar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "malamar"
+  },
+  {
+    "id": "barbaracle",
+    "name": "Barbaracle",
+    "showdown": "Barbaracle",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "barbaracle"
+  },
+  {
+    "id": "dragalge",
+    "name": "Dragalge",
+    "showdown": "Dragalge",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "dragalge"
+  },
+  {
+    "id": "clawitzer",
+    "name": "Clawitzer",
+    "showdown": "Clawitzer",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "clawitzer"
+  },
+  {
+    "id": "heliolisk",
+    "name": "Heliolisk",
+    "showdown": "Heliolisk",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "heliolisk"
+  },
+  {
+    "id": "tyrantrum",
+    "name": "Tyrantrum",
+    "showdown": "Tyrantrum",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tyrantrum"
+  },
+  {
+    "id": "aurorus",
+    "name": "Aurorus",
+    "showdown": "Aurorus",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "aurorus"
+  },
+  {
+    "id": "sylveon",
+    "name": "Sylveon",
+    "showdown": "Sylveon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sylveon"
+  },
+  {
+    "id": "hawlucha",
+    "name": "Hawlucha",
+    "showdown": "Hawlucha",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "hawlucha"
+  },
+  {
+    "id": "dedenne",
+    "name": "Dedenne",
+    "showdown": "Dedenne",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "dedenne"
+  },
+  {
+    "id": "goodra",
+    "name": "Goodra",
+    "showdown": "Goodra",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "goodra"
+  },
+  {
+    "id": "goodra-hisui",
+    "name": "Goodra-Hisui",
+    "showdown": "Goodra-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "goodra"
+  },
+  {
+    "id": "klefki",
+    "name": "Klefki",
+    "showdown": "Klefki",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "klefki"
+  },
+  {
+    "id": "trevenant",
+    "name": "Trevenant",
+    "showdown": "Trevenant",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "trevenant"
+  },
+  {
+    "id": "gourgeist",
+    "name": "Gourgeist",
+    "showdown": "Gourgeist",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gourgeist"
+  },
+  {
+    "id": "gourgeist-small",
+    "name": "Gourgeist-Small",
+    "showdown": "Gourgeist-Small",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gourgeist"
+  },
+  {
+    "id": "gourgeist-large",
+    "name": "Gourgeist-Large",
+    "showdown": "Gourgeist-Large",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gourgeist"
+  },
+  {
+    "id": "gourgeist-super",
+    "name": "Gourgeist-Super",
+    "showdown": "Gourgeist-Super",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gourgeist"
+  },
+  {
+    "id": "avalugg",
+    "name": "Avalugg",
+    "showdown": "Avalugg",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "avalugg"
+  },
+  {
+    "id": "avalugg-hisui",
+    "name": "Avalugg-Hisui",
+    "showdown": "Avalugg-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "avalugg"
+  },
+  {
+    "id": "noivern",
+    "name": "Noivern",
+    "showdown": "Noivern",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "noivern"
+  },
+  {
+    "id": "decidueye",
+    "name": "Decidueye",
+    "showdown": "Decidueye",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "decidueye"
+  },
+  {
+    "id": "decidueye-hisui",
+    "name": "Decidueye-Hisui",
+    "showdown": "Decidueye-Hisui",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "decidueye"
+  },
+  {
+    "id": "incineroar",
+    "name": "Incineroar",
+    "showdown": "Incineroar",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "incineroar"
+  },
+  {
+    "id": "primarina",
+    "name": "Primarina",
+    "showdown": "Primarina",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "primarina"
+  },
+  {
+    "id": "toucannon",
+    "name": "Toucannon",
+    "showdown": "Toucannon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "toucannon"
+  },
+  {
+    "id": "crabominable",
+    "name": "Crabominable",
+    "showdown": "Crabominable",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "crabominable"
+  },
+  {
+    "id": "lycanroc",
+    "name": "Lycanroc",
+    "showdown": "Lycanroc",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "lycanroc"
+  },
+  {
+    "id": "lycanroc-midnight",
+    "name": "Lycanroc-Midnight",
+    "showdown": "Lycanroc-Midnight",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "lycanroc"
+  },
+  {
+    "id": "lycanroc-dusk",
+    "name": "Lycanroc-Dusk",
+    "showdown": "Lycanroc-Dusk",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "lycanroc"
+  },
+  {
+    "id": "toxapex",
+    "name": "Toxapex",
+    "showdown": "Toxapex",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "toxapex"
+  },
+  {
+    "id": "mudsdale",
+    "name": "Mudsdale",
+    "showdown": "Mudsdale",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mudsdale"
+  },
+  {
+    "id": "araquanid",
+    "name": "Araquanid",
+    "showdown": "Araquanid",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "araquanid"
+  },
+  {
+    "id": "salazzle",
+    "name": "Salazzle",
+    "showdown": "Salazzle",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "salazzle"
+  },
+  {
+    "id": "tsareena",
+    "name": "Tsareena",
+    "showdown": "Tsareena",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tsareena"
+  },
+  {
+    "id": "oranguru",
+    "name": "Oranguru",
+    "showdown": "Oranguru",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "oranguru"
+  },
+  {
+    "id": "passimian",
+    "name": "Passimian",
+    "showdown": "Passimian",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "passimian"
+  },
+  {
+    "id": "golisopod",
+    "name": "Golisopod",
+    "showdown": "Golisopod",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "golisopod"
+  },
+  {
+    "id": "mimikyu",
+    "name": "Mimikyu",
+    "showdown": "Mimikyu",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mimikyu"
+  },
+  {
+    "id": "drampa",
+    "name": "Drampa",
+    "showdown": "Drampa",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "drampa"
+  },
+  {
+    "id": "kommo-o",
+    "name": "Kommo-o",
+    "showdown": "Kommo-o",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "kommo-o"
+  },
+  {
+    "id": "rillaboom",
+    "name": "Rillaboom",
+    "showdown": "Rillaboom",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "rillaboom"
+  },
+  {
+    "id": "cinderace",
+    "name": "Cinderace",
+    "showdown": "Cinderace",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "cinderace"
+  },
+  {
+    "id": "inteleon",
+    "name": "Inteleon",
+    "showdown": "Inteleon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "inteleon"
+  },
+  {
+    "id": "corviknight",
+    "name": "Corviknight",
+    "showdown": "Corviknight",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "corviknight"
+  },
+  {
+    "id": "thievul",
+    "name": "Thievul",
+    "showdown": "Thievul",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "thievul"
+  },
+  {
+    "id": "flapple",
+    "name": "Flapple",
+    "showdown": "Flapple",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "flapple"
+  },
+  {
+    "id": "appletun",
+    "name": "Appletun",
+    "showdown": "Appletun",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "appletun"
+  },
+  {
+    "id": "sandaconda",
+    "name": "Sandaconda",
+    "showdown": "Sandaconda",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sandaconda"
+  },
+  {
+    "id": "toxtricity",
+    "name": "Toxtricity",
+    "showdown": "Toxtricity",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "toxtricity"
+  },
+  {
+    "id": "toxtricity-low-key",
+    "name": "Toxtricity-Low-Key",
+    "showdown": "Toxtricity-Low-Key",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "toxtricity"
+  },
+  {
+    "id": "grapploct",
+    "name": "Grapploct",
+    "showdown": "Grapploct",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "grapploct"
+  },
+  {
+    "id": "polteageist",
+    "name": "Polteageist",
+    "showdown": "Polteageist",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "polteageist"
+  },
+  {
+    "id": "hatterene",
+    "name": "Hatterene",
+    "showdown": "Hatterene",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "hatterene"
+  },
+  {
+    "id": "grimmsnarl",
+    "name": "Grimmsnarl",
+    "showdown": "Grimmsnarl",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "grimmsnarl"
+  },
+  {
+    "id": "perrserker",
+    "name": "Perrserker",
+    "showdown": "Perrserker",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "perrserker"
+  },
+  {
+    "id": "sirfetchd",
+    "name": "Sirfetch'd",
+    "showdown": "Sirfetch'd",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sirfetchd"
+  },
+  {
+    "id": "mr-rime",
+    "name": "Mr. Rime",
+    "showdown": "Mr. Rime",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mr-rime"
+  },
+  {
+    "id": "runerigus",
+    "name": "Runerigus",
+    "showdown": "Runerigus",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "runerigus"
+  },
+  {
+    "id": "alcremie",
+    "name": "Alcremie",
+    "showdown": "Alcremie",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "alcremie"
+  },
+  {
+    "id": "falinks",
+    "name": "Falinks",
+    "showdown": "Falinks",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "falinks"
+  },
+  {
+    "id": "pincurchin",
+    "name": "Pincurchin",
+    "showdown": "Pincurchin",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pincurchin"
+  },
+  {
+    "id": "indeedee",
+    "name": "Indeedee",
+    "showdown": "Indeedee",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "indeedee"
+  },
+  {
+    "id": "indeedee-f",
+    "name": "Indeedee-F",
+    "showdown": "Indeedee-F",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "indeedee"
+  },
+  {
+    "id": "morpeko",
+    "name": "Morpeko",
+    "showdown": "Morpeko",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "morpeko"
+  },
+  {
+    "id": "dragapult",
+    "name": "Dragapult",
+    "showdown": "Dragapult",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "dragapult"
+  },
+  {
+    "id": "wyrdeer",
+    "name": "Wyrdeer",
+    "showdown": "Wyrdeer",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "wyrdeer"
+  },
+  {
+    "id": "kleavor",
+    "name": "Kleavor",
+    "showdown": "Kleavor",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "kleavor"
+  },
+  {
+    "id": "basculegion",
+    "name": "Basculegion",
+    "showdown": "Basculegion",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "basculegion"
+  },
+  {
+    "id": "basculegion-f",
+    "name": "Basculegion-F",
+    "showdown": "Basculegion-F",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "basculegion"
+  },
+  {
+    "id": "sneasler",
+    "name": "Sneasler",
+    "showdown": "Sneasler",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sneasler"
+  },
+  {
+    "id": "overqwil",
+    "name": "Overqwil",
+    "showdown": "Overqwil",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "overqwil"
+  },
+  {
+    "id": "meowscarada",
+    "name": "Meowscarada",
+    "showdown": "Meowscarada",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "meowscarada"
+  },
+  {
+    "id": "skeledirge",
+    "name": "Skeledirge",
+    "showdown": "Skeledirge",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "skeledirge"
+  },
+  {
+    "id": "quaquaval",
+    "name": "Quaquaval",
+    "showdown": "Quaquaval",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "quaquaval"
+  },
+  {
+    "id": "pawmot",
+    "name": "Pawmot",
+    "showdown": "Pawmot",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "pawmot"
+  },
+  {
+    "id": "maushold",
+    "name": "Maushold",
+    "showdown": "Maushold",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "maushold"
+  },
+  {
+    "id": "arboliva",
+    "name": "Arboliva",
+    "showdown": "Arboliva",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "arboliva"
+  },
+  {
+    "id": "squawkabilly",
+    "name": "Squawkabilly",
+    "showdown": "Squawkabilly",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "squawkabilly"
+  },
+  {
+    "id": "squawkabilly-blue",
+    "name": "Squawkabilly-Blue",
+    "showdown": "Squawkabilly-Blue",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "squawkabilly"
+  },
+  {
+    "id": "squawkabilly-yellow",
+    "name": "Squawkabilly-Yellow",
+    "showdown": "Squawkabilly-Yellow",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "squawkabilly"
+  },
+  {
+    "id": "squawkabilly-white",
+    "name": "Squawkabilly-White",
+    "showdown": "Squawkabilly-White",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "squawkabilly"
+  },
+  {
+    "id": "garganacl",
+    "name": "Garganacl",
+    "showdown": "Garganacl",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "garganacl"
+  },
+  {
+    "id": "armarouge",
+    "name": "Armarouge",
+    "showdown": "Armarouge",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "armarouge"
+  },
+  {
+    "id": "ceruledge",
+    "name": "Ceruledge",
+    "showdown": "Ceruledge",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "ceruledge"
+  },
+  {
+    "id": "bellibolt",
+    "name": "Bellibolt",
+    "showdown": "Bellibolt",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "bellibolt"
+  },
+  {
+    "id": "mabosstiff",
+    "name": "Mabosstiff",
+    "showdown": "Mabosstiff",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "mabosstiff"
+  },
+  {
+    "id": "scovillain",
+    "name": "Scovillain",
+    "showdown": "Scovillain",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "scovillain"
+  },
+  {
+    "id": "espathra",
+    "name": "Espathra",
+    "showdown": "Espathra",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "espathra"
+  },
+  {
+    "id": "tinkaton",
+    "name": "Tinkaton",
+    "showdown": "Tinkaton",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "tinkaton"
+  },
+  {
+    "id": "palafin",
+    "name": "Palafin",
+    "showdown": "Palafin",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "palafin"
+  },
+  {
+    "id": "orthworm",
+    "name": "Orthworm",
+    "showdown": "Orthworm",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "orthworm"
+  },
+  {
+    "id": "glimmora",
+    "name": "Glimmora",
+    "showdown": "Glimmora",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "glimmora"
+  },
+  {
+    "id": "houndstone",
+    "name": "Houndstone",
+    "showdown": "Houndstone",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "houndstone"
+  },
+  {
+    "id": "annihilape",
+    "name": "Annihilape",
+    "showdown": "Annihilape",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "annihilape"
+  },
+  {
+    "id": "farigiraf",
+    "name": "Farigiraf",
+    "showdown": "Farigiraf",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "farigiraf"
+  },
+  {
+    "id": "baxcalibur",
+    "name": "Baxcalibur",
+    "showdown": "Baxcalibur",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "baxcalibur"
+  },
+  {
+    "id": "gholdengo",
+    "name": "Gholdengo",
+    "showdown": "Gholdengo",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "gholdengo"
+  },
+  {
+    "id": "sinistcha",
+    "name": "Sinistcha",
+    "showdown": "Sinistcha",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "sinistcha"
+  },
+  {
+    "id": "archaludon",
+    "name": "Archaludon",
+    "showdown": "Archaludon",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "archaludon"
+  },
+  {
+    "id": "hydrapple",
+    "name": "Hydrapple",
+    "showdown": "Hydrapple",
+    "kind": "pokemon",
+    "price": 300,
+    "species": "hydrapple"
+  },
+  {
+    "id": "venusaur-mega",
+    "name": "Mega-Venusaur",
+    "kind": "mega",
+    "base": "venusaur",
+    "stone": "Venusaurite",
+    "price": 800
+  },
+  {
+    "id": "charizard-mega-x",
+    "name": "Mega-Charizard X",
+    "kind": "mega",
+    "base": "charizard",
+    "stone": "Charizardite X",
+    "price": 800
+  },
+  {
+    "id": "charizard-mega-y",
+    "name": "Mega-Charizard Y",
+    "kind": "mega",
+    "base": "charizard",
+    "stone": "Charizardite Y",
+    "price": 800
+  },
+  {
+    "id": "blastoise-mega",
+    "name": "Mega-Blastoise",
+    "kind": "mega",
+    "base": "blastoise",
+    "stone": "Blastoisinite",
+    "price": 800
+  },
+  {
+    "id": "beedrill-mega",
+    "name": "Mega-Beedrill",
+    "kind": "mega",
+    "base": "beedrill",
+    "stone": "Beedrillite",
+    "price": 800
+  },
+  {
+    "id": "pidgeot-mega",
+    "name": "Mega-Pidgeot",
+    "kind": "mega",
+    "base": "pidgeot",
+    "stone": "Pidgeotite",
+    "price": 800
+  },
+  {
+    "id": "raichu-mega-x",
+    "name": "Mega-Raichu X",
+    "kind": "mega",
+    "base": "raichu",
+    "stone": "Raichunite X",
+    "price": 800
+  },
+  {
+    "id": "raichu-mega-y",
+    "name": "Mega-Raichu Y",
+    "kind": "mega",
+    "base": "raichu",
+    "stone": "Raichunite Y",
+    "price": 800
+  },
+  {
+    "id": "clefable-mega",
+    "name": "Mega-Clefable",
+    "kind": "mega",
+    "base": "clefable",
+    "stone": "Clefablite",
+    "price": 800
+  },
+  {
+    "id": "alakazam-mega",
+    "name": "Mega-Alakazam",
+    "kind": "mega",
+    "base": "alakazam",
+    "stone": "Alakazite",
+    "price": 800
+  },
+  {
+    "id": "victreebel-mega",
+    "name": "Mega-Victreebel",
+    "kind": "mega",
+    "base": "victreebel",
+    "stone": "Victreebelite",
+    "price": 800
+  },
+  {
+    "id": "slowbro-mega",
+    "name": "Mega-Slowbro",
+    "kind": "mega",
+    "base": "slowbro",
+    "stone": "Slowbronite",
+    "price": 800
+  },
+  {
+    "id": "gengar-mega",
+    "name": "Mega-Gengar",
+    "kind": "mega",
+    "base": "gengar",
+    "stone": "Gengarite",
+    "price": 800
+  },
+  {
+    "id": "kangaskhan-mega",
+    "name": "Mega-Kangaskhan",
+    "kind": "mega",
+    "base": "kangaskhan",
+    "stone": "Kangaskhanite",
+    "price": 800
+  },
+  {
+    "id": "starmie-mega",
+    "name": "Mega-Starmie",
+    "kind": "mega",
+    "base": "starmie",
+    "stone": "Starminite",
+    "price": 800
+  },
+  {
+    "id": "pinsir-mega",
+    "name": "Mega-Pinsir",
+    "kind": "mega",
+    "base": "pinsir",
+    "stone": "Pinsirite",
+    "price": 800
+  },
+  {
+    "id": "gyarados-mega",
+    "name": "Mega-Gyarados",
+    "kind": "mega",
+    "base": "gyarados",
+    "stone": "Gyaradosite",
+    "price": 800
+  },
+  {
+    "id": "aerodactyl-mega",
+    "name": "Mega-Aerodactyl",
+    "kind": "mega",
+    "base": "aerodactyl",
+    "stone": "Aerodactylite",
+    "price": 800
+  },
+  {
+    "id": "dragonite-mega",
+    "name": "Mega-Dragonite",
+    "kind": "mega",
+    "base": "dragonite",
+    "stone": "Dragoninite",
+    "price": 800
+  },
+  {
+    "id": "meganium-mega",
+    "name": "Mega-Meganium",
+    "kind": "mega",
+    "base": "meganium",
+    "stone": "Meganiumite",
+    "price": 800
+  },
+  {
+    "id": "feraligatr-mega",
+    "name": "Mega-Feraligatr",
+    "kind": "mega",
+    "base": "feraligatr",
+    "stone": "Feraligite",
+    "price": 800
+  },
+  {
+    "id": "ampharos-mega",
+    "name": "Mega-Ampharos",
+    "kind": "mega",
+    "base": "ampharos",
+    "stone": "Ampharosite",
+    "price": 800
+  },
+  {
+    "id": "steelix-mega",
+    "name": "Mega-Steelix",
+    "kind": "mega",
+    "base": "steelix",
+    "stone": "Steelixite",
+    "price": 800
+  },
+  {
+    "id": "scizor-mega",
+    "name": "Mega-Scizor",
+    "kind": "mega",
+    "base": "scizor",
+    "stone": "Scizorite",
+    "price": 800
+  },
+  {
+    "id": "heracross-mega",
+    "name": "Mega-Heracross",
+    "kind": "mega",
+    "base": "heracross",
+    "stone": "Heracronite",
+    "price": 800
+  },
+  {
+    "id": "skarmory-mega",
+    "name": "Mega-Skarmory",
+    "kind": "mega",
+    "base": "skarmory",
+    "stone": "Skarmorite",
+    "price": 800
+  },
+  {
+    "id": "houndoom-mega",
+    "name": "Mega-Houndoom",
+    "kind": "mega",
+    "base": "houndoom",
+    "stone": "Houndoominite",
+    "price": 800
+  },
+  {
+    "id": "tyranitar-mega",
+    "name": "Mega-Tyranitar",
+    "kind": "mega",
+    "base": "tyranitar",
+    "stone": "Tyranitarite",
+    "price": 800
+  },
+  {
+    "id": "sceptile-mega",
+    "name": "Mega-Sceptile",
+    "kind": "mega",
+    "base": "sceptile",
+    "stone": "Sceptilite",
+    "price": 800
+  },
+  {
+    "id": "blaziken-mega",
+    "name": "Mega-Blaziken",
+    "kind": "mega",
+    "base": "blaziken",
+    "stone": "Blazikenite",
+    "price": 800
+  },
+  {
+    "id": "swampert-mega",
+    "name": "Mega-Swampert",
+    "kind": "mega",
+    "base": "swampert",
+    "stone": "Swampertite",
+    "price": 800
+  },
+  {
+    "id": "gardevoir-mega",
+    "name": "Mega-Gardevoir",
+    "kind": "mega",
+    "base": "gardevoir",
+    "stone": "Gardevoirite",
+    "price": 800
+  },
+  {
+    "id": "sableye-mega",
+    "name": "Mega-Sableye",
+    "kind": "mega",
+    "base": "sableye",
+    "stone": "Sablenite",
+    "price": 800
+  },
+  {
+    "id": "mawile-mega",
+    "name": "Mega-Mawile",
+    "kind": "mega",
+    "base": "mawile",
+    "stone": "Mawilite",
+    "price": 800
+  },
+  {
+    "id": "aggron-mega",
+    "name": "Mega-Aggron",
+    "kind": "mega",
+    "base": "aggron",
+    "stone": "Aggronite",
+    "price": 800
+  },
+  {
+    "id": "medicham-mega",
+    "name": "Mega-Medicham",
+    "kind": "mega",
+    "base": "medicham",
+    "stone": "Medichamite",
+    "price": 800
+  },
+  {
+    "id": "manectric-mega",
+    "name": "Mega-Manectric",
+    "kind": "mega",
+    "base": "manectric",
+    "stone": "Manectite",
+    "price": 800
+  },
+  {
+    "id": "sharpedo-mega",
+    "name": "Mega-Sharpedo",
+    "kind": "mega",
+    "base": "sharpedo",
+    "stone": "Sharpedonite",
+    "price": 800
+  },
+  {
+    "id": "camerupt-mega",
+    "name": "Mega-Camerupt",
+    "kind": "mega",
+    "base": "camerupt",
+    "stone": "Cameruptite",
+    "price": 800
+  },
+  {
+    "id": "altaria-mega",
+    "name": "Mega-Altaria",
+    "kind": "mega",
+    "base": "altaria",
+    "stone": "Altarianite",
+    "price": 800
+  },
+  {
+    "id": "banette-mega",
+    "name": "Mega-Banette",
+    "kind": "mega",
+    "base": "banette",
+    "stone": "Banettite",
+    "price": 800
+  },
+  {
+    "id": "chimecho-mega",
+    "name": "Mega-Chimecho",
+    "kind": "mega",
+    "base": "chimecho",
+    "stone": "Chimechite",
+    "price": 800
+  },
+  {
+    "id": "absol-mega",
+    "name": "Mega-Absol",
+    "kind": "mega",
+    "base": "absol",
+    "stone": "Absolite",
+    "price": 800
+  },
+  {
+    "id": "absol-mega-z",
+    "name": "Mega-Absol Z",
+    "kind": "mega",
+    "base": "absol",
+    "stone": "Absolite Z",
+    "price": 800
+  },
+  {
+    "id": "glalie-mega",
+    "name": "Mega-Glalie",
+    "kind": "mega",
+    "base": "glalie",
+    "stone": "Glalitite",
+    "price": 800
+  },
+  {
+    "id": "salamence-mega",
+    "name": "Mega-Salamence",
+    "kind": "mega",
+    "base": "salamence",
+    "stone": "Salamencite",
+    "price": 800
+  },
+  {
+    "id": "metagross-mega",
+    "name": "Mega-Metagross",
+    "kind": "mega",
+    "base": "metagross",
+    "stone": "Metagrossite",
+    "price": 800
+  },
+  {
+    "id": "staraptor-mega",
+    "name": "Mega-Staraptor",
+    "kind": "mega",
+    "base": "staraptor",
+    "stone": "Staraptite",
+    "price": 800
+  },
+  {
+    "id": "lopunny-mega",
+    "name": "Mega-Lopunny",
+    "kind": "mega",
+    "base": "lopunny",
+    "stone": "Lopunnite",
+    "price": 800
+  },
+  {
+    "id": "garchomp-mega",
+    "name": "Mega-Garchomp",
+    "kind": "mega",
+    "base": "garchomp",
+    "stone": "Garchompite",
+    "price": 800
+  },
+  {
+    "id": "garchomp-mega-z",
+    "name": "Mega-Garchomp Z",
+    "kind": "mega",
+    "base": "garchomp",
+    "stone": "Garchompite Z",
+    "price": 800
+  },
+  {
+    "id": "lucario-mega",
+    "name": "Mega-Lucario",
+    "kind": "mega",
+    "base": "lucario",
+    "stone": "Lucarionite",
+    "price": 800
+  },
+  {
+    "id": "lucario-mega-z",
+    "name": "Mega-Lucario Z",
+    "kind": "mega",
+    "base": "lucario",
+    "stone": "Lucarionite Z",
+    "price": 800
+  },
+  {
+    "id": "abomasnow-mega",
+    "name": "Mega-Abomasnow",
+    "kind": "mega",
+    "base": "abomasnow",
+    "stone": "Abomasite",
+    "price": 800
+  },
+  {
+    "id": "gallade-mega",
+    "name": "Mega-Gallade",
+    "kind": "mega",
+    "base": "gallade",
+    "stone": "Galladite",
+    "price": 800
+  },
+  {
+    "id": "froslass-mega",
+    "name": "Mega-Froslass",
+    "kind": "mega",
+    "base": "froslass",
+    "stone": "Froslassite",
+    "price": 800
+  },
+  {
+    "id": "emboar-mega",
+    "name": "Mega-Emboar",
+    "kind": "mega",
+    "base": "emboar",
+    "stone": "Emboarite",
+    "price": 800
+  },
+  {
+    "id": "excadrill-mega",
+    "name": "Mega-Excadrill",
+    "kind": "mega",
+    "base": "excadrill",
+    "stone": "Excadrite",
+    "price": 800
+  },
+  {
+    "id": "audino-mega",
+    "name": "Mega-Audino",
+    "kind": "mega",
+    "base": "audino",
+    "stone": "Audinite",
+    "price": 800
+  },
+  {
+    "id": "scolipede-mega",
+    "name": "Mega-Scolipede",
+    "kind": "mega",
+    "base": "scolipede",
+    "stone": "Scolipite",
+    "price": 800
+  },
+  {
+    "id": "scrafty-mega",
+    "name": "Mega-Scrafty",
+    "kind": "mega",
+    "base": "scrafty",
+    "stone": "Scraftinite",
+    "price": 800
+  },
+  {
+    "id": "eelektross-mega",
+    "name": "Mega-Eelektross",
+    "kind": "mega",
+    "base": "eelektross",
+    "stone": "Eelektrossite",
+    "price": 800
+  },
+  {
+    "id": "chandelure-mega",
+    "name": "Mega-Chandelure",
+    "kind": "mega",
+    "base": "chandelure",
+    "stone": "Chandelurite",
+    "price": 800
+  },
+  {
+    "id": "golurk-mega",
+    "name": "Mega-Golurk",
+    "kind": "mega",
+    "base": "golurk",
+    "stone": "Golurkite",
+    "price": 800
+  },
+  {
+    "id": "chesnaught-mega",
+    "name": "Mega-Chesnaught",
+    "kind": "mega",
+    "base": "chesnaught",
+    "stone": "Chesnaughtite",
+    "price": 800
+  },
+  {
+    "id": "delphox-mega",
+    "name": "Mega-Delphox",
+    "kind": "mega",
+    "base": "delphox",
+    "stone": "Delphoxite",
+    "price": 800
+  },
+  {
+    "id": "greninja-mega",
+    "name": "Mega-Greninja",
+    "kind": "mega",
+    "base": "greninja",
+    "stone": "Greninjite",
+    "price": 800
+  },
+  {
+    "id": "pyroar-mega",
+    "name": "Mega-Pyroar",
+    "kind": "mega",
+    "base": "pyroar",
+    "stone": "Pyroarite",
+    "price": 800
+  },
+  {
+    "id": "floette-mega",
+    "name": "Mega-Floette",
+    "kind": "mega",
+    "base": "floette-eternal",
+    "stone": "Floettite",
+    "price": 800
+  },
+  {
+    "id": "meowstic-mega",
+    "name": "Mega-Meowstic",
+    "kind": "mega",
+    "base": "meowstic",
+    "stone": "Meowsticite",
+    "price": 800
+  },
+  {
+    "id": "malamar-mega",
+    "name": "Mega-Malamar",
+    "kind": "mega",
+    "base": "malamar",
+    "stone": "Malamarite",
+    "price": 800
+  },
+  {
+    "id": "barbaracle-mega",
+    "name": "Mega-Barbaracle",
+    "kind": "mega",
+    "base": "barbaracle",
+    "stone": "Barbaracite",
+    "price": 800
+  },
+  {
+    "id": "dragalge-mega",
+    "name": "Mega-Dragalge",
+    "kind": "mega",
+    "base": "dragalge",
+    "stone": "Dragalgite",
+    "price": 800
+  },
+  {
+    "id": "hawlucha-mega",
+    "name": "Mega-Hawlucha",
+    "kind": "mega",
+    "base": "hawlucha",
+    "stone": "Hawluchanite",
+    "price": 800
+  },
+  {
+    "id": "crabominable-mega",
+    "name": "Mega-Crabominable",
+    "kind": "mega",
+    "base": "crabominable",
+    "stone": "Crabominite",
+    "price": 800
+  },
+  {
+    "id": "golisopod-mega",
+    "name": "Mega-Golisopod",
+    "kind": "mega",
+    "base": "golisopod",
+    "stone": "Golisopite",
+    "price": 800
+  },
+  {
+    "id": "drampa-mega",
+    "name": "Mega-Drampa",
+    "kind": "mega",
+    "base": "drampa",
+    "stone": "Drampanite",
+    "price": 800
+  },
+  {
+    "id": "falinks-mega",
+    "name": "Mega-Falinks",
+    "kind": "mega",
+    "base": "falinks",
+    "stone": "Falinksite",
+    "price": 800
+  },
+  {
+    "id": "scovillain-mega",
+    "name": "Mega-Scovillain",
+    "kind": "mega",
+    "base": "scovillain",
+    "stone": "Scovillainite",
+    "price": 800
+  },
+  {
+    "id": "glimmora-mega",
+    "name": "Mega-Glimmora",
+    "kind": "mega",
+    "base": "glimmora",
+    "stone": "Glimmoranite",
+    "price": 800
+  },
+  {
+    "id": "baxcalibur-mega",
+    "name": "Mega-Baxcalibur",
+    "kind": "mega",
+    "base": "baxcalibur",
+    "stone": "Baxcalibrite",
+    "price": 800
+  },
+  {
+    "id": "air-balloon",
+    "name": "Air Balloon",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "big-root",
+    "name": "Big Root",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "binding-band",
+    "name": "Binding Band",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "black-belt",
+    "name": "Black Belt",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "black-glasses",
+    "name": "Black Glasses",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "bright-powder",
+    "name": "Bright Powder",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "charcoal",
+    "name": "Charcoal",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "choice-scarf",
+    "name": "Choice Scarf",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "damp-rock",
+    "name": "Damp Rock",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "dragon-fang",
+    "name": "Dragon Fang",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "eject-button",
+    "name": "Eject Button",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "electric-seed",
+    "name": "Electric Seed",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "expert-belt",
+    "name": "Expert Belt",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "fairy-feather",
+    "name": "Fairy Feather",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "focus-band",
+    "name": "Focus Band",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "focus-sash",
+    "name": "Focus Sash",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "grassy-seed",
+    "name": "Grassy Seed",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "hard-stone",
+    "name": "Hard Stone",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "heat-rock",
+    "name": "Heat Rock",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "icy-rock",
+    "name": "Icy Rock",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "iron-ball",
+    "name": "Iron Ball",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "kings-rock",
+    "name": "King's Rock",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "leek",
+    "name": "Leek",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "leftovers",
+    "name": "Leftovers",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "life-orb",
+    "name": "Life Orb",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "light-ball",
+    "name": "Light Ball",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "light-clay",
+    "name": "Light Clay",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "magnet",
+    "name": "Magnet",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "mental-herb",
+    "name": "Mental Herb",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "metal-coat",
+    "name": "Metal Coat",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "metronome",
+    "name": "Metronome",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "miracle-seed",
+    "name": "Miracle Seed",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "misty-seed",
+    "name": "Misty Seed",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "muscle-band",
+    "name": "Muscle Band",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "mystic-water",
+    "name": "Mystic Water",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "never-melt-ice",
+    "name": "Never-Melt Ice",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "normal-gem",
+    "name": "Normal Gem",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "poison-barb",
+    "name": "Poison Barb",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "psychic-seed",
+    "name": "Psychic Seed",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "quick-claw",
+    "name": "Quick Claw",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "red-card",
+    "name": "Red Card",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "rocky-helmet",
+    "name": "Rocky Helmet",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "scope-lens",
+    "name": "Scope Lens",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "sharp-beak",
+    "name": "Sharp Beak",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "shed-shell",
+    "name": "Shed Shell",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "shell-bell",
+    "name": "Shell Bell",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "silk-scarf",
+    "name": "Silk Scarf",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "silver-powder",
+    "name": "Silver Powder",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "smooth-rock",
+    "name": "Smooth Rock",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "soft-sand",
+    "name": "Soft Sand",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "spell-tag",
+    "name": "Spell Tag",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "terrain-extender",
+    "name": "Terrain Extender",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "twisted-spoon",
+    "name": "Twisted Spoon",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "white-herb",
+    "name": "White Herb",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "wide-lens",
+    "name": "Wide Lens",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "wise-glasses",
+    "name": "Wise Glasses",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "zoom-lens",
+    "name": "Zoom Lens",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "aspear-berry",
+    "name": "Aspear Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "babiri-berry",
+    "name": "Babiri Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "charti-berry",
+    "name": "Charti Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "cheri-berry",
+    "name": "Cheri Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "chesto-berry",
+    "name": "Chesto Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "chilan-berry",
+    "name": "Chilan Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "chople-berry",
+    "name": "Chople Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "coba-berry",
+    "name": "Coba Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "colbur-berry",
+    "name": "Colbur Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "haban-berry",
+    "name": "Haban Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "kasib-berry",
+    "name": "Kasib Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "kebia-berry",
+    "name": "Kebia Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "leppa-berry",
+    "name": "Leppa Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "lum-berry",
+    "name": "Lum Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "occa-berry",
+    "name": "Occa Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "oran-berry",
+    "name": "Oran Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "passho-berry",
+    "name": "Passho Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "payapa-berry",
+    "name": "Payapa Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "pecha-berry",
+    "name": "Pecha Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "persim-berry",
+    "name": "Persim Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "rawst-berry",
+    "name": "Rawst Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "rindo-berry",
+    "name": "Rindo Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "roseli-berry",
+    "name": "Roseli Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "shuca-berry",
+    "name": "Shuca Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "sitrus-berry",
+    "name": "Sitrus Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "tanga-berry",
+    "name": "Tanga Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "wacan-berry",
+    "name": "Wacan Berry",
+    "kind": "item",
+    "price": 150
+  },
+  {
+    "id": "yache-berry",
+    "name": "Yache Berry",
+    "kind": "item",
+    "price": 150
+  }
+]
